@@ -13,8 +13,8 @@ https://github.com/adafruit/Adafruit_VEML6070
 
 The library performs the following tasks:
 
-Can write the command register to setup the device
-Can read the UV intensity
-Can convert to UV Index based on the Vishay app note (for Rset = 270k)
+* Can write the command register to setup the device
+* Can read the UV intensity
+* Can convert to UV Index based on the Vishay app note (for Rset = 270k)
 
 The library is written in C
